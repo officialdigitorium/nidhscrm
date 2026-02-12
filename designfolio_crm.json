@@ -68,7 +68,23 @@
       "phone": "91 9825845955",
       "email": "",
       "source": "Instagram",
-      "projects": []
+      "projects": [
+        {
+          "id": 1770905652832,
+          "name": "LED Screen and Template Design",
+          "type": "Print Design",
+          "status": "Delivered",
+          "budget": 750,
+          "deadline": "",
+          "maxRevisions": 1,
+          "revisions": 0,
+          "notes": "LED Screen And Template Design",
+          "portfolio": false,
+          "payments": [],
+          "expenses": [],
+          "deliverables": []
+        }
+      ]
     }
   ]
 }
