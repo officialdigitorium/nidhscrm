@@ -3,5 +3,15 @@
     "name": "DesignFolio",
     "logo": null
   },
-  "clients": []
+  "clients": [
+    {
+      "id": 1770902634602,
+      "name": "Digital Neel",
+      "contact": "Digital Neel",
+      "phone": "91 7861982524",
+      "email": "officialdigitorium@gmail.com",
+      "source": "",
+      "projects": []
+    }
+  ]
 }
