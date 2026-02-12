@@ -20,7 +20,7 @@
           "budget": 10000,
           "deadline": "2026-02-01",
           "maxRevisions": 3,
-          "revisions": 0,
+          "revisions": 1,
           "notes": "",
           "portfolio": false,
           "payments": [
