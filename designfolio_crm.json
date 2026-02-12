@@ -43,7 +43,23 @@
       "phone": "91 85118 04038",
       "email": "",
       "source": "Instagram",
-      "projects": []
+      "projects": [
+        {
+          "id": 1770905070874,
+          "name": "DK Social Media",
+          "type": "Social Media Kit",
+          "status": "Delivered",
+          "budget": 2250,
+          "deadline": "",
+          "maxRevisions": 3,
+          "revisions": 0,
+          "notes": "250 Per Post Design",
+          "portfolio": true,
+          "payments": [],
+          "expenses": [],
+          "deliverables": []
+        }
+      ]
     }
   ]
 }
