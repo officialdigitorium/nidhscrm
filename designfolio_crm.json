@@ -70,14 +70,7 @@
           "revisions": 0,
           "notes": "250 Per Post Design",
           "portfolio": true,
-          "payments": [
-            {
-              "id": 1770923634892,
-              "amount": 2000,
-              "date": "2026-02-12",
-              "mode": "UPI"
-            }
-          ],
+          "payments": [],
           "expenses": [],
           "deliverables": []
         }
