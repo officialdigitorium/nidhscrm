@@ -33,6 +33,21 @@
           ],
           "expenses": [],
           "deliverables": []
+        },
+        {
+          "id": 1770905857583,
+          "name": "Social Media Posts",
+          "type": "Social Media Kit",
+          "status": "Approved",
+          "budget": 2100,
+          "deadline": "",
+          "maxRevisions": 3,
+          "revisions": 0,
+          "notes": "3 posts for Tripathi\n3 posts for Highmark",
+          "portfolio": false,
+          "payments": [],
+          "expenses": [],
+          "deliverables": []
         }
       ]
     },
