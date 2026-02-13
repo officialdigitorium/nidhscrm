@@ -50,7 +50,10 @@
           "portfolio": false,
           "payments": [],
           "expenses": [],
-          "deliverables": []
+          "deliverables": [],
+          "pricing": "Fixed",
+          "pricePerUnit": 0,
+          "quantity": 0
         }
       ]
     },
