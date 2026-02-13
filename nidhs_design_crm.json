@@ -27,7 +27,14 @@
           "notes": "",
           "portfolio": false,
           "payments": [],
-          "expenses": [],
+          "expenses": [
+            {
+              "id": 1770969079614,
+              "amount": 100,
+              "desc": "fff",
+              "date": "2026-02-13"
+            }
+          ],
           "deliverables": []
         }
       ]
