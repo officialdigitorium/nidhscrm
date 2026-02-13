@@ -26,7 +26,14 @@
           "revisions": 0,
           "notes": "",
           "portfolio": false,
-          "payments": [],
+          "payments": [
+            {
+              "id": 1770969089619,
+              "amount": 444,
+              "date": "2026-02-13",
+              "mode": "UPI"
+            }
+          ],
           "expenses": [
             {
               "id": 1770969079614,
