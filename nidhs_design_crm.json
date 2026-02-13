@@ -11,7 +11,33 @@
       "phone": "91",
       "email": "r67606812@gmail.com",
       "source": "sdd",
-      "projects": []
+      "projects": [
+        {
+          "id": 1770969013008,
+          "name": "post",
+          "type": "Logo Design",
+          "status": "Brief",
+          "pricing": "Per Post",
+          "budget": 444,
+          "pricePerUnit": 444,
+          "quantity": 1,
+          "deadline": "",
+          "maxRevisions": 3,
+          "revisions": 0,
+          "notes": "",
+          "portfolio": false,
+          "payments": [
+            {
+              "id": 1770969013009,
+              "amount": 100,
+              "date": "2026-02-01",
+              "mode": "UPI"
+            }
+          ],
+          "expenses": [],
+          "deliverables": []
+        }
+      ]
     }
   ],
   "theme": "light"
