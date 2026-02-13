@@ -64,15 +64,18 @@
           "name": "DK Social Media",
           "type": "Social Media Kit",
           "status": "Approved",
-          "budget": 2250,
+          "budget": 2000,
           "deadline": "",
           "maxRevisions": 3,
           "revisions": 0,
           "notes": "250 Per Post Design",
-          "portfolio": true,
+          "portfolio": false,
           "payments": [],
           "expenses": [],
-          "deliverables": []
+          "deliverables": [],
+          "pricing": "Fixed",
+          "pricePerUnit": 0,
+          "quantity": 0
         }
       ]
     },
