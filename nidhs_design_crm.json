@@ -3,6 +3,16 @@
     "name": "NIDHS DESIGN",
     "logo": null
   },
-  "clients": [],
+  "clients": [
+    {
+      "id": 1770968219830,
+      "name": "Rahul",
+      "contact": "",
+      "phone": "91",
+      "email": "r67606812@gmail.com",
+      "source": "sdd",
+      "projects": []
+    }
+  ],
   "theme": "light"
 }
