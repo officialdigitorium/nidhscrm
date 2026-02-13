@@ -32,7 +32,10 @@
             }
           ],
           "expenses": [],
-          "deliverables": []
+          "deliverables": [],
+          "pricing": "Fixed",
+          "pricePerUnit": 0,
+          "quantity": 0
         },
         {
           "id": 1770905857583,
