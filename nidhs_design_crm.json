@@ -120,7 +120,26 @@
       "phone": "91",
       "email": "",
       "source": "Instagram",
-      "projects": []
+      "projects": [
+        {
+          "id": 1771095974061,
+          "name": "KD Bhindi Jewellers Logo Design",
+          "type": "Logo Design",
+          "status": "Design",
+          "pricing": "Fixed",
+          "budget": 7999,
+          "pricePerUnit": 0,
+          "quantity": 0,
+          "deadline": "",
+          "maxRevisions": 3,
+          "revisions": 0,
+          "notes": "Logo Design+Business Card Design",
+          "portfolio": false,
+          "payments": [],
+          "expenses": [],
+          "deliverables": []
+        }
+      ]
     }
   ],
   "theme": "light"
