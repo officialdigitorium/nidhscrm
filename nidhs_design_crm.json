@@ -136,7 +136,14 @@
           "notes": "Logo Design+Business Card Design",
           "portfolio": false,
           "payments": [],
-          "expenses": [],
+          "expenses": [
+            {
+              "id": 1771234214374,
+              "amount": 9599,
+              "desc": "Expense",
+              "date": "2026-02-16"
+            }
+          ],
           "deliverables": []
         }
       ]
