@@ -135,7 +135,14 @@
           "revisions": 0,
           "notes": "Logo Design+Business Card Design",
           "portfolio": false,
-          "payments": [],
+          "payments": [
+            {
+              "id": 1771234244882,
+              "amount": 9599,
+              "date": "2026-02-16",
+              "mode": "UPI"
+            }
+          ],
           "expenses": [],
           "deliverables": []
         }
