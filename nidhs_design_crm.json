@@ -76,7 +76,14 @@
           "revisions": 0,
           "notes": "₹250 Per Post Design (10 posts)",
           "portfolio": false,
-          "payments": [],
+          "payments": [
+            {
+              "id": 1772100109021,
+              "amount": 2500,
+              "date": "2026-02-26",
+              "mode": "UPI"
+            }
+          ],
           "expenses": [],
           "deliverables": [],
           "pricing": "Fixed",
