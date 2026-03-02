@@ -141,7 +141,7 @@
           "maxRevisions": 3,
           "revisions": 0,
           "notes": "Logo Design+Business Card Design",
-          "portfolio": false,
+          "portfolio": true,
           "payments": [
             {
               "id": 1771234244882,
