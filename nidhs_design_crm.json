@@ -48,7 +48,14 @@
           "revisions": 0,
           "notes": "4 posts for Tripathi\n6 posts for Highmark\n(₹350 Per Post Design)\n\nCount into flight ticket :-\n₹27349 - ₹3500 = ₹23,849",
           "portfolio": false,
-          "payments": [],
+          "payments": [
+            {
+              "id": 1772702201304,
+              "amount": 3500,
+              "date": "2026-03-05",
+              "mode": "UPI"
+            }
+          ],
           "expenses": [],
           "deliverables": [],
           "pricing": "Per Post",
