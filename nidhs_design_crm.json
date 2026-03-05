@@ -51,9 +51,9 @@
           "payments": [],
           "expenses": [],
           "deliverables": [],
-          "pricing": "Fixed",
-          "pricePerUnit": 0,
-          "quantity": 0
+          "pricing": "Per Post",
+          "pricePerUnit": 350,
+          "quantity": 10
         }
       ]
     },
