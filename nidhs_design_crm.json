@@ -118,7 +118,14 @@
           "revisions": 0,
           "notes": "LED Screen And Template Design",
           "portfolio": false,
-          "payments": [],
+          "payments": [
+            {
+              "id": 1774033519876,
+              "amount": 750,
+              "date": "2026-03-20",
+              "mode": "UPI"
+            }
+          ],
           "expenses": [],
           "deliverables": [],
           "pricing": "Fixed",
